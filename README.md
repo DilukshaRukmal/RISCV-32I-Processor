@@ -25,3 +25,5 @@ Riscv processor implemented using verilog
 [Verilog simulator](http://digitaljs.tilk.eu/)
 
 [Basic ISA](https://docs.google.com/spreadsheets/d/1d10qwHa3qtc82rMc7o9Wmtv8tsaIeJ3jhWNhkYd87cU/edit?usp=sharing)
+
+![Alt text](https://media.cheggcdn.com/media/5b4/5b4b57d4-1cd7-4e95-86d6-edb7caafc215/phpn5NF0U "datapath original")
